@@ -17,6 +17,7 @@ public class FourTest extends Base{
 	public void testFour() throws IOException, InterruptedException {
 		
 		System.out.println("Jimin has updated the code with this statement");
+		System.out.println("Jimin second updated code");
 	
 		driver = initializeDriver();
 		driver.get("http://www.tutorialsninja.com/demo/");
